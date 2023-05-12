@@ -14,7 +14,7 @@ router.post('/contact-us', async (req, res) => {
   });
 
   const mailOptions = {
-    from: process.env.EMAIL_USERNAME,
+    from: process.env.EMAIL_USERNAME2,
     to: process.env.EMAIL_USERNAME, 
     subject: 'Contact Us Form Submission',
     text: `Name: ${name}\nEmail: ${email}\nMessage: ${message}`,
