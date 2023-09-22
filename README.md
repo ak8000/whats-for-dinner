@@ -40,11 +40,6 @@ CORS_ORIGIN=http://localhost:3001
 ## Deployed front-end
 To view the front-end code live on the web, go to https://monkfish-app-fjlpj.ondigitalocean.app/
 
-
-## Additional Resources
-
-[README.md](https://github.com/agiledev-students-spring-2023/final-project-what-s-for-dinner/blob/master/README.md) - an overview of this project<br>
-
 ### Important Note
 
-This project is still in development, and I appreciate your patience and feedback as I work to improve the platform. If you have any questions or suggestions, please don't hesitate to reach out via the project's GitHub page.
+This project is currently on pause for the foreseeable future, but I appreciate your patience and feedback. If you have any questions or suggestions, please don't hesitate to reach out via the project's GitHub page.
