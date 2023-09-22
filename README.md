@@ -30,7 +30,7 @@ EMAIL_USERNAME=whatsfordinneragile@gmail.com
 EMAIL_PASSWORD=nuzvkswprpbdvozh
 CORS_ORIGIN=http://localhost:3001
 ```
-    *Note: I have provided the following credentials. However, for real projects, please visit "https://www.themealdb.com/" to create an account and replace <MEAL_DB_API_KEY> with your own API key. Similarly, replace <MONGODB_URI> and <SPOONACULAR_API_KEY> with your respective API keys.*
+**I have provided the following credentials. However, for real projects, please visit "https://www.themealdb.com/" to create an account and replace <MEAL_DB_API_KEY> with your own API key. Similarly, replace <MONGODB_URI> and <SPOONACULAR_API_KEY> with your respective API keys.**
 
 ### Running
 1. If you are testing either the front-end or back-end, you can run `npm start` in the corresponding folder.
